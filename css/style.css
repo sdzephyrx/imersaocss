@@ -1,0 +1,13 @@
+.no-script{
+    color: red;
+}
+
+body{
+    background: lightblue; 
+    background-image: url('https://render-us.worldofwarcraft.com/character/nemesis/143/96077967-main.jpg');
+    background-size: 75%;
+  }
+  
+  h1{
+    color: lightyellow;
+  }
